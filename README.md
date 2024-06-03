@@ -21,6 +21,6 @@ In Dark Mode:
 - Accent colors are carefully chosen to maintain visual hierarchy and highlight important elements.
 - Animation effects are incorporated to smoothly transition between light and dark modes, enhancing the overall user experience.
 
-## Additional Resources
+## Design Resources :
 - [Figma - Uifry Financial Decision-Making Website](https://www.figma.com/community/file/1145991068621514311)
 
